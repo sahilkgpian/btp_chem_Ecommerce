@@ -10,3 +10,5 @@ This is the add product section where we can add products and provide desciption
 
 This is our database MongoDB where we can see all the related description related to products,users their orders and every other details and can track and manage them.
 ![btp_github3](https://github.com/sahilkgpian/btp_chem_Ecommerce/assets/137074146/444e281e-1ca2-4dcc-a7c9-2468f223cd0d)
+
+This is how our orders section looks as of now,will update it further.
