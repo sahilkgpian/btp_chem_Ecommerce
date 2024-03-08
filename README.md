@@ -7,3 +7,6 @@ This is the products section where we can find products realated to chemisry and
 
 This is the add product section where we can add products and provide desciptions and price etc.
 ![btp_github2](https://github.com/sahilkgpian/btp_chem_Ecommerce/assets/137074146/6ef5297b-a6b8-4806-aa4e-fd6d6b411e52)
+
+This is our database MongoDB where we can see all the related description related to products,users their orders and every other details and can track and manage them.
+![btp_github3](https://github.com/sahilkgpian/btp_chem_Ecommerce/assets/137074146/444e281e-1ca2-4dcc-a7c9-2468f223cd0d)
